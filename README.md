@@ -37,7 +37,7 @@ Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) , you should see 
 <img src="static\demovideo\Temp.PNG"  >
 
 # Web Demo
-<video src="static\demovideo\Demo.mp4"  ></video>
+<img src="https://user-images.githubusercontent.com/32382363/219585425-a73a2b3f-f1b2-4a04-a5f1-27df9e1073e4.gif"  >
 
 # Author
 Elabonga Atuo <br>
